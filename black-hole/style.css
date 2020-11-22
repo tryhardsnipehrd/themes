@@ -53,8 +53,8 @@
   --veil: rgba(100, 100, 100, 0.2);
 
 
-  --online: rgb(67, 181, 129);
-  --online-sheer: rgba(67, 181, 129, 0.267);
+  --online: rgb(255, 255, 255);
+  --online-sheer: rgba(255, 255, 255, 0.267);
   /* color for online status */
   --idle: rgb(250, 166, 26);
   --idle-sheer: #faa61a44;
